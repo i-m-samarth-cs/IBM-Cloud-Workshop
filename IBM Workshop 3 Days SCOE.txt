@@ -1,0 +1,156 @@
+IBM Workshop 3 Days SCOE
+
+Day 1
+
+(i)What is Cloud?
+Demanding any service with the help of internet is called as cloud.
+We can make use of any device to connect with cloud just having the internet connectivity
+
+Types of Cloud
+
+1)Public Cloud - Resources are shared with different companies or different customers
+2)Private Cloud - Resources are give to the single client or customer
+3)Hybrid Cloud - Resources are used in a mix pole private as well as public 
+
+Cloud service Architecture
+
+1)SaaS - Software as a Serivce
+2)PaaS - Platform as a Service
+3)IaaS - Infrastructure as a service
+
+Services provided by cloud providers
+
+1)VM - Virtual Machine
+2)Networking Services
+3)Storage Services
+4)Machine Learning Services
+5)AI Services
+
+Name of the Cloud Providers
+
+(i)IBM Cloud
+(ii)AWS
+(iii)GCP - Google Cloud Platform
+(iv)Microsoft Azure
+(v)Oracle
+
+
+# CASE STUDY #
+
+So Firstly as we are going to start an IT Industry on cloud with 100 employees so we need to create a private netowork of 100 employees gaining the access of data just to the employees on the cloud with authentication
+Also make an facility to make the groups between the employees and make an platoform where the problem can be given to the employees and make a way for the employees to add there solution on the platform provided to them
+Also a way to gather meetings of the employees and discuss with the autorites regarding the project 
+
+
+Day 2 Machine Learning and Deep Learning
+
+Machine Learning 
+
+It is train the machine with the help of data 
+
+Types of Machine Learning
+
+1)Supervised Machine Learning - We will provide the data with the label 
+ex image along with data
+
+(i)Classification ML - identifying the categories
+(ii)Regression ML - identifying some numeric values
+
+2)Unsupervised Machine Learning - here we will not provide label just will give the data.
+
+3)Reinforcement Learning - it learn from experience
+ex Robot making , game developement
+
+# Steps to create ML Model
+
+(i)Identify the problem statement
+(ii)Collect the data and Analyze the data
+(iii)Split the data
+(iv)Use the appropriate ML Algorithm to train the model
+(v)Check the performance of the model
+(vi)Save and deploy the model
+
+
+Problem Statement 
+-----------------
+Design and develope the machine learning model to identify type of the iris flower
+
+(i)Search for Watson Studio 
+Is Service by IBM to create machine learning model without coding
+(ii)Watson Machine Learning Services
+(iii)Storage Service for .csv
+(iv)Go to asset search for autoai
+(v)Associate ml service
+(v)Upload your .csv file
+(vi)Save the module
+(vii)GO to navigation menu and Delete the resources (services)under AI and ML of the cloud
+
+## Resource Deletion is Important to start a new process
+At a time we can work on one project only thus 
+
+.ipynb - interactive python notebook
+
+90% training and 10% testing
+Always select free plans
+
+Problem Statement telecom
+
+Design and develope a machine learning model to predicate the customer churn
+
+
+
+===================================================================
+Classification
+Identifying which category an object belongs to.
+
+Applications: Spam detection, image recognition.
+Algorithms: Gradient boosting, nearest neighbors, random forest, logistic regression, and more...
+
+Classifier comparison
+Regression
+Predicting a continuous-valued attribute associated with an object.
+
+Applications: Drug response, Stock prices.
+Algorithms: Gradient boosting, nearest neighbors, random forest, ridge, and more...
+
+Decision Tree Regression with AdaBoost
+Clustering
+Automatic grouping of similar objects into sets.
+
+Applications: Customer segmentation, Grouping experiment outcomes
+Algorithms: k-Means, HDBSCAN, hierarchical clustering, and more...
+
+A demo of K-Means clustering on the handwritten digits data
+Dimensionality reduction
+Reducing the number of random variables to consider.
+
+Applications: Visualization, Increased efficiency
+Algorithms: PCA, feature selection, non-negative matrix factorization, and more...
+
+PCA example with Iris Data-set
+Model selection
+Comparing, validating and choosing parameters and models.
+
+Applications: Improved accuracy via parameter tuning
+Algorithms: grid search, cross validation, metrics, and more...
+
+Demonstration of multi-metric evaluation on cross_val_score and GridSearchCV
+Preprocessing
+Feature extraction and normalization.
+
+Applications: Transforming input data such as text for use with machine learning algorithms.
+Algorithms: preprocessing, feature extraction, and more...
+===================================================================
+
+Day 3 
+
+New Service - watsonx Assistant - it is used for generating chatbot
+
+
+
+LinkedIn SkillSet
+(i)IBM Watson Studio
+(ii)IBM Watson ML Service
+(iii)AutoAi
+(iv)Chatbot creation using watsonx assistant
+
